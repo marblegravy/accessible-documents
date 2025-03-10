@@ -4,25 +4,27 @@ A collection of links and references from my Drupal South presentation - How inc
 ## Policies and strategies
 
 DTA Digital Experience Policy
-https://www.digital.gov.au/policy/digital-experience
-
 Includes the: 
 * Digital Service Standard
 * Digital Inclusion Standard
 * Digital Access Standard
 * Digital Performance Standard
+https://www.digital.gov.au/policy/digital-experience
 
 Australian Government Style Manual
 https://www.stylemanual.gov.au/
 
+WCAG 2.2
+https://www.w3.org/TR/WCAG22/
+
 WCAG 3
 https://www.w3.org/TR/wcag-3.0/#introduction
 
-Disability Discrimination Act
-https://humanrights.gov.au/our-work/disability-rights/disability-discrimination
-
 Australia’s Disability Strategy
 https://www.disabilitygateway.gov.au/ads
+
+Disability Discrimination Act
+https://humanrights.gov.au/our-work/disability-rights/disability-discrimination
 
 Disability Discrimination Act Advisory Notes - 2014 version
 https://humanrights.gov.au/our-work/disability-rights/world-wide-web-access-disability-discrimination-act-advisory-notes-ver
@@ -63,10 +65,10 @@ https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity-toolkit/co
 
 ## Guides for creating accessible documents
 
-https://www.disabilitygateway.gov.au/print-digital-document
-https://www.dfat.gov.au/about-us/about-this-website/accessible-documents/creating-documents-meet-accessibility-guidelines
-https://www.dfat.gov.au/about-us/about-this-website/accessible-documents/pdf-document
-https://www.accessibility.sa.gov.au/your-role/content/documents/accessible-print-publications
+* https://www.disabilitygateway.gov.au/print-digital-document
+* https://www.dfat.gov.au/about-us/about-this-website/accessible-documents/creating-documents-meet-accessibility-guidelines
+* https://www.dfat.gov.au/about-us/about-this-website/accessible-documents/pdf-document
+* https://www.accessibility.sa.gov.au/your-role/content/documents/accessible-print-publications
 
 ## Future state inspiration
 
